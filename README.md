@@ -40,8 +40,6 @@ We employed a CNN-LSTM model for both single-view and multi-view tasks, designed
 
 ### CNN-LSTM Architecture
 
-![CNN-LSTM Architecture](cnn_lstm_architecture.png)
-
 - **Convolutional Layer**: Extracts spatial features from the input sequence.
 - **Batch Normalization**: Normalizes the output of the convolutional layer to accelerate training.
 - **ReLU Activation**: Introduces non-linearity.
