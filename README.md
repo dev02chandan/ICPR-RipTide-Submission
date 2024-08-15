@@ -1,7 +1,6 @@
 # Methodology for Rider Intention Prediction
 
-![Workflow Diagram Planning Whiteboard in Purple Blue Modern Professional Style](https://github.com/user-attachments/assets/96a2b0dc-b106-4a6a-bbe8-00418437343e)
-
+<img width="1207" alt="results" src="https://github.com/user-attachments/assets/5a6c8712-ab79-4209-8427-ca09267529ad">
 
 ## 1. Introduction
 
