@@ -1,0 +1,302 @@
+Video name,Maneuver label
+00d5a64d-7e78-4662-9f00-c2a7c69cace8,Stop
+0db072f3-d123-44cb-9edf-23dbdad3ccac,Straight
+0f388736-f574-449e-9ab7-4cfa531a6b51,Right Turn
+1d98d9d5-ad45-46ff-b3c2-f22546b2a7e3,Straight
+1e842859-77da-4601-86b1-a2a2942003dd,Right Turn
+2bab6951-1843-4503-90eb-d3f3cc8b471f,Left Turn
+2bc76da3-c604-433f-9d1b-e92306e34304,Left Turn
+2d9a32b2-8a95-48a9-ae43-01c83a9bbf36,Left Turn
+3a687a03-9d61-4741-9ef3-c54986769657,Straight
+3b646e0b-989c-4fda-b84e-3c9de2399a5a,Left Turn
+004ed8d4-5be9-4963-bdb3-8aace317cd74,Left Turn
+4a9bdd2c-f92f-48c3-a72a-ef40f6b00618,Right Lane Change
+4b913aca-07c2-40c5-b099-da4b895994dc,Straight
+05c8e8e2-7459-48ef-afc3-0d1b5194cb25,Left Turn
+5d3a03be-8f15-4c0d-9bdb-1fb8f38076cf,Left Turn
+06b959ab-9f60-48c7-87f8-d22e7e5db4a2,Stop
+6b678d0e-3cb3-4437-a421-b4a5f032939f,Left Turn
+7d34064d-1ad3-4e4d-afdd-2099bcdd8952,Straight
+7fd1e388-5a08-450a-9c55-8d92e5a6cd83,Straight
+09ad9f9e-338e-4570-93cf-80d772088fbe,Left Lane Change
+9a879896-1b9f-4bea-9057-63bf021bc76d,Left Turn
+20a115af-abae-4831-b62e-a41379c68273,Left Lane Change
+30b2c119-7f65-4791-afc4-93bbd8a2592f,Straight
+35c62f85-9117-49e7-89d3-fa381057ae8d,Straight
+43cf172a-9fd9-41a5-a83b-1f17a0f1ff61,Slow
+45ae417f-6895-4245-b35e-c00f06e99b28,Left Lane Change
+69efec09-8e14-43fc-951b-1d665b1bc84e,Slow
+70b02379-4be3-41b7-9e56-047433b79547,Left Turn
+086d9421-afb3-423d-8170-04ae2fcc3948,Slow
+252a7231-cf00-47c2-af1f-d7ea7d1db8bd,Right Turn
+824ecb50-b77b-4bb3-bf79-98f87a51c42f,Straight
+848c04d1-c5bf-45ae-a5c1-62a3c8f97365,Slow
+883beada-7ccb-43c5-b944-e4603fc3f5f9,Left Turn
+959a8c82-fd17-44a5-911f-cd5cdc3b773a,Straight
+7612fbfb-910c-440b-9093-4d09a2c8db6a,Slow
+7857ca70-4ec3-49e3-ace8-db5d72e549c8,Slow
+8801f476-7471-4286-b175-bbd66710283a,Slow
+19227eda-1338-42b5-afab-130afd8233e3,Left Lane Change
+392991b5-f24b-41bd-a690-6b998c5b8f25,Left Turn
+638082ab-6b09-45e3-bb68-cfaa3fc0408a,Straight
+789122e5-ff0a-44bf-86d0-8d195555af08,Straight
+07794882-8538-42f4-a06d-4c147a7b377b,Slow
+9407075f-f54b-4aa8-adbb-2f96e68ffe07,Left Turn
+13908178-9a4e-4862-ab9d-25ada8717d2c,Stop
+18148502-eb8a-49a1-a95d-76a02852a9cc,Right Turn
+46226272-b22d-4ac5-aa51-99f00b8570c7,Straight
+a2a733d8-ab8e-4e0a-82cc-4f29a126791e,Right Turn
+a3b69458-7d2d-462d-9657-7ed64fba79fa,Left Turn
+a654f714-3420-4a85-abb2-51326c3c55fe,Slow
+a95479e6-25e4-4f40-9865-bdc00f640f2e,Left Turn
+a327365d-c9fe-4888-be52-3d5ebea5fae0,Straight
+a2667234-428d-4c3e-a422-9412cbc17733,Straight
+aa3525bd-262b-4349-b4b2-41ae8058a809,Left Lane Change
+ab0832d7-1a2b-43a6-bec7-10cb25ca7983,Right Turn
+afe5f180-6c04-4191-949a-b24b34351a72,Right Turn
+b2a75b06-bec7-4f92-8d7e-d0a2e523e975,Right Turn
+b534a2bd-6236-4f27-80a2-7aeb7f471838,Slow
+bd3f7c77-f5c8-4c99-b028-c6978f622f26,Left Turn
+bd4876a7-3932-446c-b605-633bdb276811,Left Turn
+c7e26af7-fc55-4802-9453-196295598a68,Straight
+c9b113f3-3dcb-488f-a90c-63e4a486a609,Straight
+c53b0315-5f84-499d-aba9-1a3edbcd5e85,Straight
+cab48330-ac2b-4218-b05c-d0806e735bd5,Right Turn
+cb9f652c-3dd8-4d5b-a3fa-9664c5d9d1b7,Straight
+d3f77ea2-8db9-458b-b33a-e8024c77f566,Left Turn
+d54baae8-e42f-4065-b6c1-27e4a8075a8f,Left Turn
+d454d3c6-efd5-4d53-bd6b-82338842a2b2,Straight
+d4414322-a206-465b-adec-5e105ba0a9fe,Right Lane Change
+dc6efa69-6946-4e2b-9de4-288cbf3c20a6,Straight
+dec19835-0fb4-4887-8178-19df3b497153,Slow
+e28d0073-737e-497a-9794-0b1c8ccb0c1d,Straight
+e086083a-ef9b-4d33-b81a-9f61b7810e07,Right Turn
+fb7b73db-cf2a-4265-8d83-97942dadd241,Left Turn
+,Left Turn
+a3d195d1-ca64-4c4d-965d-86f7af28b4e8,Left Turn
+02d9a67f-cd75-4880-9e41-08b9369e5ded,Left Turn
+2fbc0d39-970f-4d11-801e-a0ba184af6ed,Left Turn
+6d736267-5685-4048-a535-964394266256,Slow
+7df07116-21cc-44ca-87a1-061e3762d491,Left Turn
+51c50bc7-c0fa-4204-bf87-c1dbdef6022a,Left Lane Change
+58ad4e7f-bbf2-4903-a3a1-89642cddb719,Right Turn
+80fdbb32-cb82-411c-8fbf-d58c1b5e6d51,Left Lane Change
+94c60cb1-37be-40b1-9417-c187c7d00877,Slow
+97b7c9dd-74b3-4051-a2a8-a66b8bd5418b,Left Turn
+388cb2df-dd8b-4069-b123-4fc2efc9abb1,Left Turn
+605fc38d-edf5-4350-8d50-b270e95ecc16,Right Turn
+08773a0f-8905-4c68-9d9b-321d2a8ef6b2,Right Lane Change
+75528de3-719a-461e-89f8-2db8d70d318d,Left Turn
+78601b52-4224-4926-8aef-a6c6328b5944,Right Turn
+545870a7-5793-4904-9885-fe30f31a20fc,Right Turn
+6431472b-5450-4dda-b563-ec17908fded2,Left Turn
+a00dba3f-bf0c-43fb-a816-124555a3fea8,Straight
+a5e6c796-e253-4ce9-bb05-6dceb203836a,Right Turn
+aece7fd7-9690-42f9-a87f-2b205c1f5aa4,Straight
+b9940849-d624-4f21-bbe2-1168b633c3b7,Right Turn
+cfbf3f06-5190-433a-91e2-bf8c2332ef0c,Right Turn
+d90f6d6e-f1bf-4009-892a-dc457535bc4e,Slow
+e50fdbad-6817-4439-b7c0-97ae63bac3cc,Right Turn
+ed875a76-8c9a-4188-9a9b-c4a2c681b829,Slow
+fc9b8169-9f71-446b-bb0c-cd05283e61e5,Right Turn
+32539e4d-04f6-4e17-8afc-a02657c01968,Right Lane Change
+0c41b908-6643-4ed6-a23b-d37bfc1eb76c,Straight
+0c532a7e-f904-49a6-b420-b63feb4e1e15,Left Lane Change
+01bd1017-7748-4e0b-bf57-d9012563695a,Straight
+2b4d25e3-309b-4618-9b7b-486db9d8f2a6,Right Turn
+2b045312-775d-4005-92ad-760f39e29637,Slow
+2cbfa1f7-1e9c-468f-b876-f100bae407ce,Left Turn
+2fd6b648-695c-4acf-849b-9182456e3a97,Left Turn
+4a1cd1d2-fc52-4bbf-bf42-11340dc4f580,Left Turn
+4c39d90c-4d71-41d7-9779-0b830d4fb1e0,Left Turn
+5b8ec090-f772-4b12-bee4-d6e765ebe725,Right Turn
+6af1d394-4b5f-45d4-8cff-5d02c1fa4d0d,Left Turn
+7af02f13-832a-45ea-b709-3d0d701b6003,Right Turn
+08fad321-94d6-4a5d-9203-4b76e0e26589,Right Turn
+8e290f43-5b2d-4cc9-8f1e-fbf0db5eee71,Left Turn
+8eb0c569-ac6e-4452-a22d-8eedfa404faa,Left Turn
+8eb1b8b2-08bf-40ca-b567-2c9c6fcb67c1,Left Turn
+9aaf8611-a2bc-4f1d-97c5-10e469d76456,Left Turn
+9ec457c5-91c6-4e28-a36a-2ab463b03f29,Right Turn
+9fd0b386-9bda-4da5-ac7e-25fd8e6000d6,Right Turn
+13d1aac7-01e8-4d8f-be04-6b9bf1d78c38,Right Turn
+15c51b29-9265-4ec1-9e30-60a160f252e6,Left Turn
+30a79e9b-931f-45c9-bc06-71e7fa3f21ee,Left Turn
+32b3c3bb-17a6-4692-ab2c-322c640fd961,Left Turn
+40b2d516-8879-4910-b9bd-edbc85a80c67,Straight
+41a79829-f926-4f7d-9d7a-630f6cace179,Straight
+44d7e12c-568e-427e-bdcd-2f8354e7dea6,Slow
+046e6fab-6a93-4dec-b88b-5511afd7fe62,Right Turn
+46a329a6-8947-4252-9eef-09548b2a3023,Left Turn
+062bbee4-bcaa-4fc1-ba19-3784ec31309c,Right Turn
+64e1baa3-2fc8-4879-93f3-c01c6cf4139c,Left Turn
+73a84ac9-549c-4288-8614-88ae9a443603,Right Turn
+82c5c5a4-3101-4ad8-b417-ec599b926db1,Slow
+93def8bf-d9e9-4855-a6b9-30cb1b9f96f1,Right Turn
+95be7df6-317d-4059-9ad6-8ba087ea774d,Left Turn
+98ef8f1a-17c0-4d59-81dc-4dbb5091ca97,Straight
+505b42c8-9c46-4955-936f-16bfac5b8830,Left Turn
+568eee02-254f-4cd6-9410-eb19585e544f,Straight
+5747fef5-f2a4-47d2-a58a-96071c709ea0,Slow
+7311a172-0ba4-4d7f-a473-52a42b9e81a4,Straight
+59423d0e-db64-4673-a197-97c5304ff813,Left Turn
+96163dcf-243f-4813-8dcc-340ef5304059,Slow
+423792cd-9efa-4a4f-b3e7-747d6fb7f1f8,Left Turn
+6050937a-cfd0-4fb2-a6f1-e56e4ec4db94,Straight
+54941413-97cb-463f-94c0-bd8331df141d,Straight
+ac34341c-f835-499e-8706-b143adbabc5e,Slow
+ad7cc305-aa85-4ba0-8faa-30e92bd17935,Slow
+aec024cb-5fd0-4ba8-a1ec-a1a63f13f650,Right Turn
+b7f8630d-dc90-4135-bdf5-5a089489bef8,Right Turn
+b2412571-3c07-4002-beff-b9715ef5066f,Slow
+bf900a43-4579-4031-b2e5-0fa24c7e00d4,Right Turn
+c1d317b2-638a-45d1-9800-c62f266bed77,Right Turn
+c4466a07-d1ac-4e3e-87de-1f35c63725b0,Right Lane Change
+c265088b-1094-46ae-88d6-e6f664892327,Left Turn
+cd50ee6b-d468-4560-b40c-40d487fcde7e,Straight
+e9977599-e366-4cc7-87bf-8dd7a7f2cff1,Left Turn
+ead027d3-45d2-4366-896b-d135371be543,Right Turn
+ed203370-f3ad-4861-8034-f7bc2b0afaf5,Left Turn
+f3dc043b-39fb-438d-b170-e4fc7413a9ec,Stop
+f480e49c-ac72-4cda-a0c3-7aa3c48f592b,Left Turn
+41b95834-ad4e-444e-a981-65f8d2855db5,Straight
+0b8d6666-d57a-4bf2-a0f0-fb6de7f69a90,Left Turn
+3be87140-9bcf-4eff-91d4-1795e3e5802d,Slow
+5a6ce7f8-a7b2-4a85-8a44-0b6abfddffc4,Left Turn
+5c14dd9e-130b-4405-ad4a-bee1726a7a68,Slow
+5e3d853e-38c4-44e4-8eb5-bceef55602ee,Right Turn
+6a5df173-f866-4e03-b14a-3bd963ed8649,Right Turn
+6b752431-6011-49b8-a3fc-84c8e705070e,Right Turn
+6c56ef99-088c-4c99-9047-e259e85cbe30,Right Lane Change
+7cafd774-1088-443f-9b67-15956cd72b70,Right Lane Change
+7d6d0986-4228-45f5-8b39-acd82ee77f78,Right Lane Change
+7d6e99a8-45c1-4328-b070-fc4e90fed8bc,Straight
+7d461c0a-9704-4bd6-b2e1-ce9202fd5442,Straight
+7db0ecff-018e-41ea-8136-78a73cc1c9e7,Left turn
+8c8fd994-6c2c-4430-88cf-3e642279e294,Left Turn
+09a30412-fd64-4ba0-8d5d-8fa5bd68b9e0,Right Lane Change
+9a0f9d6d-6c87-4a2d-b6d5-f7fa2a5a37ad,Right Turn
+9d5cf73c-dd2f-4e2d-a8a9-82d81fd11e51,Right Turn
+28c02b8c-ebf8-413c-83b2-49ba2f46c2c2,Right Lane Change
+55dedc1a-5025-4b14-aa4e-327b1acb279a,Right Lane Change
+58f1e041-95a9-4c08-a35c-dbcba8e9627a,Stop
+66e56d2d-d4c4-42d2-b5b7-eb141fbd097f,Left Turn
+87f8d5e2-837e-44d9-b2fd-c67a1574ee3e,Left Turn
+241c8f63-34f8-4fa8-8ac3-e1c2ba75fbb4,Straight
+260e367a-a54c-40fb-a2b9-3ac7364d5703,Straight
+950ed77e-f1dc-4d40-a7f4-0e0c1ef1c1b0,Right Lane Change
+2589beef-c7bc-4aff-a0f7-834cf661ce8b,Straight
+4114a1f5-b186-437f-954a-cd020f84ddf8,Left Lane Change
+06512d85-40a7-4951-9f3b-802893fbff12,Right Lane Change
+6613d10d-3f50-4a79-a013-cc5da63f95b1,Left Lane Change
+33993e5f-d42e-469a-bc34-dfb5fdf4edf6,Slow
+62430b71-8476-44fb-b23e-b3329c628ea6,Right Lane Change
+77120d03-74ee-4190-933a-0f40528906ff,Right Turn
+276690f9-ab06-48d0-aa8d-bc3e5478fb13,Right Lane Change
+6655605a-fc19-45c2-8972-0d6e598f51a3,Left Lane Change
+29727134-fa50-4e0e-847d-24ea334b0b4f,Straight
+a3e578aa-ba6a-4f81-8a01-10597a64ed19,Straight
+a7aa14d4-c451-4968-8585-89281f99a4ec,Left lane change
+a11d9a13-74c6-4671-a1ca-51db7465552b,Right Lane Change
+a51421b9-b70f-479a-ad28-07cad0db8454,Straight
+ad26369a-749b-4222-a86f-055ea43d9291,Right Lane Change
+b699ffe3-d98b-48a3-8b9c-eced13c18c63,Right Turn
+beb350a4-280f-4a72-a0f1-db41ac394958,Left Turn
+c5b87769-c36c-4644-a9c2-dff0b10b317a,Straight
+cd4b25a2-5306-4e59-a301-c7fa53794e20,Left Turn
+d046d8b5-670e-4a36-9e23-257316c8719e,Right Lane Change
+d57e4d93-1403-46c9-bf67-556b8118c706,Left Turn
+e52a43c4-c3b8-4918-9271-308cd9eca059,Straight
+ea1032b8-26d3-4cd8-afae-ac44572a438f,Straight
+ef56a73f-20d5-4efa-b479-a716fb670faa,Straight
+fa1b0774-22d2-4411-ba35-734c2d7467c5,Right Turn
+fa818724-4f54-4da8-b44f-76b024c781e6,Right Lane Change
+fd7545b6-acb7-47b2-94ed-4b6c8f9b9714,Right Turn
+1ab08478-1958-4366-87b1-9b48c3ccc541,Left Lane Change
+1bf11e6c-a918-4e00-8850-14f554af1d4c,Slow
+1d39094f-7d92-47c0-9dc2-f6bace8bfd8b,Left Lane Change
+2a5e9f5c-5296-4a08-8633-ad43868fea6b,Right Lane Change
+2d9bd6cd-98ce-4ca2-a56a-4d61657ed935,Straight
+3a2046fd-a419-4fcb-bcf8-427d9b62270b,Left Turn
+4d644fa2-4325-4d4c-8600-4f737834fd1e,Straight
+4fcddec7-cecf-44c0-a4e4-ee15c812ca85,Straight
+5cd233cf-6402-433c-88e1-505b715340de,Straight
+5ffe0302-c55e-4dc0-84fc-122df02bb2fa,Straight
+7afcb718-d439-4222-a880-85e33dc6648a,Left Turn
+8a718ebd-e9a2-40e3-9620-f13b857910aa,Straight
+8b8c0f78-100e-4477-b6a3-1e464d3e9d08,Straight
+12dea207-e803-4a5a-b46c-fb54fa182fcb,Right Lane Change
+58a7730f-04ba-407a-b80d-b277143dd37d,Right Lane Change
+60cd134b-e8b3-4ead-84ca-a02cc7c46c20,Straight
+63d3a010-9b8c-4181-9ca6-673ba68b682a,Left Turn
+92a63b52-f2fc-4f48-b9bf-22c176bb5a25,Right Turn
+94e7548e-2776-4d28-bcf1-bc44a7624646,Left Lane Change
+357ccf06-9ac7-4d6e-a895-e4b0ef21bfe6,Straight
+699b9535-afd3-4229-989d-34b1899ff3b8,Right Turn
+1277cf3d-b448-4041-8226-1ac216112e72,Right Turn
+5442ec06-07e8-4523-b579-e7ce627df75b,Straight
+71481dc5-8709-45c4-970b-0aeb0b2cbbf9,Right turn
+108525ef-8fac-48cb-8e36-892ff073a1e2,Straight
+32993929-c9a4-4e84-846a-a16f8abfb3e2,Straight
+a7c2c1e3-25ad-49a3-81f3-73c9830bfd03,Straight
+a8480a14-3542-4a4f-bb5a-877b3dbce03f,Straight
+acc2b4ae-1de1-4875-b4b8-3731eab75219,Straight
+b8cf26e4-7329-4cfa-aca7-00bd40975ff0,Left Lane Change
+b629c6f9-8d83-43b5-8845-1447c850b90b,Straight
+bd0e6ef3-0ee3-42d2-ba89-87e27f31da87,Straight
+be27f2ce-8cfb-46c7-90c8-92abeda9cb39,Straight
+c48de1f3-c7de-4656-be3b-bb3fd96356f4,Left Lane Change
+ca167fa6-c6df-4378-a588-68b2e019b2cb,Straight
+d3a71d37-ca39-47a8-b126-40e495b64267,Straight
+d6d81bbb-c92a-4a28-933c-4ae5b90f6232,Straight
+dc3cc96e-37d8-48f9-b033-6b75cc9de47b,Right Lane Change
+e2a1add5-4438-4ce9-a6c3-24731f58e99d,Straight
+ecc891d9-f253-450b-b850-274d8c0e1457,Left Turn
+f05a7799-926b-41db-8b22-26acf0a2b7ed,Slow
+2d350c6d-e025-45f1-a8e6-80552c791c46,Left Turn
+2ec5052c-c265-4edb-aa46-6460c217fcf2,Left Turn
+3b3d1027-51ea-4502-b60d-6960b3d4d2d4,Left Turn
+3bc02a66-c497-4ab7-9d4c-6c847efa6425,Left Turn
+3f3ec9c9-4b49-4b1b-b916-454ba621d827,Left Turn
+3f6b4114-b4fb-4ee8-a8b8-2f73e53af0ea,Left Turn
+4ef07058-9477-4216-b677-bd3e6a906c7e,Left Turn
+5b2c6d24-4b3d-46ff-adef-b732508b3bb5,Left Turn
+5bd68e52-2630-4bde-99a6-99bede4b6de0,Left Turn
+5ea07f42-2ec0-484a-a45c-cb915912601d,Left Turn
+6c8624be-6b19-47a2-be47-6f801f7ab164,Left Turn
+8e069130-c58e-4778-b53b-b662556b54ed,Left Turn
+9b1dfc18-e8b4-4996-9177-0660760dac57,Left Turn
+43bbe34d-77c1-4022-b31c-0ef83d002049,Left Turn
+60ad70f9-ecde-4f47-87ec-41bbc1221d94,Left Turn
+64fed362-967f-4127-835c-53ea23fe39f3,Left Turn
+78b36dd2-edd6-46b0-87eb-3a282f87015e,Left Turn
+5715a0a6-7fa2-4b5b-8f42-d43fcab9729a,Left Turn
+8657d9d4-1ff5-4dd2-be08-256da0d647ef,Left Turn
+9671c795-1071-4461-995f-f11f6fe0282a,Left Turn
+4a9bd7f9-da7d-4f31-a846-b732853d7aa4,Stop
+7aef186a-3d4b-48e0-b41c-6cc29f6bd643,Stop
+7d43bedb-13c3-4b9d-9050-f1652b110a1e,Stop
+7d436d64-e4c5-4a6c-a255-86dd338a8c16,Stop
+8c731559-f1a2-4611-b85c-dcfe991ee85d,Stop
+9d37c401-0345-4518-b632-195483cc1371,Stop
+42a362bd-7c23-4380-a042-a992f7fb75c9,Stop
+0b552512-3809-416f-9d33-d734abdc62fa,Right Turn
+0ba7c96d-81d2-48a5-b842-e437a84b4af7,Right Turn
+1e57e1f5-d934-4a30-811a-7f56ba583b8e,Right Turn
+2eac9b90-e267-4d92-852b-79b65002828e,Right Turn
+3c5dd9df-a0cf-484d-9f47-c1343c3b29db,Right Turn
+3f07519f-1d30-4665-bd3c-9ae199403366,Right Turn
+4cbfd7c2-5f34-468d-95ba-50871281155e,Right Turn
+4eb8fabb-e506-4de9-858d-3828f8b9c69a,Right Turn
+5b2da383-0157-4877-bee3-c43ae6116348,Right Turn
+6b50de23-fd3b-4772-8c5b-f00bbefdaa76,Right Turn
+6e117e55-f0dc-4305-834c-a5c8b29c7d3f,Right Turn
+7cee92ec-a495-498b-b8b2-de1b352c45a4,Right Turn
+8e376cf1-48dd-4cd6-b193-b3fd0dd60280,Right Turn
+9e034b69-a477-46e6-a8ec-6efd7c263af0,Right Turn
+9fff9170-316b-468e-9ebd-1b3070fade5b,Right Turn
+11b727b1-e4a6-46bc-92b4-6689cf2ca09e,Right Turn
+18ec8b70-5dfa-4377-84b9-048155001141,Right Turn
+49ab74ee-0433-4ec2-8cf1-5331034918f9,Right Turn
+88e343f7-71e6-460b-997b-67020023567d,Right Turn
+89c1ddc4-b25d-4b5d-81b4-571fc8e1ff09,Right Turn
