@@ -1,5 +1,8 @@
 # Methodology for Rider Intention Prediction
 
+<img width="980" alt="image" src="https://github.com/user-attachments/assets/ee0960de-a32d-445b-a2c4-fdc512a8bd29">
+
+
 <img width="1207" alt="results" src="https://github.com/user-attachments/assets/5a6c8712-ab79-4209-8427-ca09267529ad">
 
 ## 1. Introduction
